@@ -1,0 +1,1 @@
+start setup /configure Office2021.xml
